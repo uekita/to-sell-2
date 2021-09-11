@@ -42,10 +42,10 @@
 ## Polo Masculina - Tamanho P - R$10,00
 <img src="photos/IMG_20210911_140208.jpg" width="300" height="500">
 
-## Calça Jeans Masculina Hollister Super Skinny Original - Tamanho 38 - R$99,00
+## Calça Jeans Masculina Hollister Super Skinny Original - Tamanho 38 - R$65,00
 <img src="photos/IMG_20210911_140350.jpg" width="300" height="500">
 
-## Calça Jeans Masculina Hollister Super Skinny Original - Tamanho 38 - R$99,00
+## Calça Jeans Masculina Hollister Super Skinny Original - Tamanho 38 - R$65,00
 <img src="photos/IMG_20210911_140524.jpg" width="300" height="500">
 
 ## Shorts Jeans Feminina - Marfino - Tamanho 36 - R$15,00
