@@ -9,7 +9,7 @@
 ## Camisa Social Masculina Slim fit - Preston Field Tamanho 2 - R$20,00
 <img src="photos/IMG_20210911_133951.jpg" width="300" height="500">
 
-## Camisa Masculina Abercrombie & Fitch Original - Tamanho M - R$50,00
+## Camisa Masculina Abercrombie & Fitch Original - Tamanho M - R$45,00
 <img src="photos/IMG_20210911_134124.jpg" width="300" height="500">
 
 ## Camisa Masculina TNG Slim Fit - Tamanho P - R$30,00
